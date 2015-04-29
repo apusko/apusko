@@ -1,0 +1,97 @@
+---
+layout: post
+title:  "Перелет"
+date:   2015-04-08 19:24:09
+categories: jekyll update
+
+desc: В предыдущей записи я уже немного рассказал вам о маршруте перелёта, однако в момент пересечения Атлантического океана нахлынуло желание описать весь этот небольшой кусочек жизни. Не сказать, что меня переполняют впечатления, но сказать есть что. Взять к примеру неописуемые боли в области пятой точки, которые сложились после 15 часового сидения в одном положении, полёт на Гренландией и знакомство со студентами из Украины.
+---
+
+В предыдущей записи я уже немного рассказал вам о маршруте перелёта, однако в момент пересечения Атлантического океана нахлынуло желание описать весь этот небольшой кусочек жизни. Не сказать, что меня переполняют впечатления, но сказать есть что. Взять к примеру неописуемые боли в области пятой точки, которые сложились после 15 часового сидения в одном положении, полёт на Гренландией и знакомство со студентами из Украины.
+Весь маршрут на самом деле очень простой с одной пересадкой и то в одном и том же аэропорту. В конечном итоге маршрут выглядел следующим образом Калининград – Москва (Шереметьево) – Вашингтон ДС.
+
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9CSMWs4QAno" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Находясь дома я, почему-то, был на сто процентов уверен, что я посплю в московском аэропорту во время 10 часовой пересадки, однако неудобные сиденья не позволили не это сделать=(. Нужно выразить огромную благодарность ноутбуку, интернету и розеткам, которые помогли скоротать это время.
+Самое удивительное, что с такой длительной пересадкой мы чуть не прозевали лучшие места в самолёте(те которые у окна=)), так как регистрация началась, довольно таки рано за часа 3 или даже больше. Ну всё обошлась и нам достался очень красивый вид из окна).
+Очутившись в самолёте, наконец-то удалось немного поспать. Не сказать, что время тянулось, как на парах, однако пятая точка давала о себе знать и хотелось уже побыстрее добраться до пункта назначения.
+В процессе перелёта удалось увидеть Гренландию, очень красивое место), почувствовать себя на минутку в кинофильме о крушение самолётов при попадание самолёта в зону турбулентности, а но этом в принципе и всё)
+Если вам интересно читать эти записулки, рад видеть вас на своей странице в контакте, также буду очень признателен вашим комментариям и лайкам)))). Так что пишем не стесняемся)))
+На этом и закончу. До скорой встречи)
+
+<div class="gamma-container gamma-loading" id="gamma-container">
+
+					<ul class="gamma-gallery">
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="1300"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="1000"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="700"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="300"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="200"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="140"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg"></div>
+								<noscript>
+									<img src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="1300"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="1000"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="700"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="300"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="200"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="140"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg"></div>
+								<noscript>
+									<img src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="http://cs311622.vk.me/v311622002/84ac/JfDh2yEL3MM.jpg" data-min-width="1300"></div>
+								<div data-src="http://cs311622.vk.me/v311622002/84ac/JfDh2yEL3MM.jpg" data-min-width="1000"></div>
+								<div data-src="http://cs311622.vk.me/v311622002/84ac/JfDh2yEL3MM.jpg" data-min-width="700"></div>
+								<div data-src="http://cs311622.vk.me/v311622002/84ac/JfDh2yEL3MM.jpg" data-min-width="300"></div>
+								<div data-src="http://cs311622.vk.me/v311622002/84ac/JfDh2yEL3MM.jpg" data-min-width="200"></div>
+								<div data-src="http://cs311622.vk.me/v311622002/84ac/JfDh2yEL3MM.jpg" data-min-width="140"></div>
+								<div data-src="http://cs311622.vk.me/v311622002/84ac/JfDh2yEL3MM.jpg"></div>
+								<noscript>
+									<img src="http://cs311622.vk.me/v311622002/84ac/JfDh2yEL3MM.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="1300"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="1000"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="700"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="300"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="200"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="140"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg"></div>
+								<noscript>
+									<img src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+
+					
+
+					</ul>
+
+					<div class="gamma-overlay"></div>
+
+
+				</div>
+
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help

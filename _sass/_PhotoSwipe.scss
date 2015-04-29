@@ -1,0 +1,107 @@
+//colors
+$white: #fff;
+$color_link_water_approx: #dae1ec;
+$color_jaffa_approx: #f87f3f;
+
+html {
+  //Instead of the line below you could use @includebox-sizing($bs)
+  box-sizing: border-box;
+}
+* {
+  //Instead of the line below you could use @includebox-sizing($bs)
+  box-sizing: inherit;
+  &:before {
+    //Instead of the line below you could use @includebox-sizing($bs)
+    box-sizing: inherit;
+  }
+  &:after {
+    //Instead of the line below you could use @includebox-sizing($bs)
+    box-sizing: inherit;
+  }
+}
+.cf {
+  *zoom: 1;
+  &:before {
+    content: " ";
+    display: table;
+  }
+  &:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+figure {
+  margin: 0;
+  padding: 10px;
+  a {
+    display: block;
+  }
+}
+.demo-content {
+  max-width: 840px;
+  width: 100%;
+  margin-top: 60px;
+  margin-right: auto;
+  margin-left: auto;
+  img {
+    border: 5px solid $white;
+  }
+}
+.picture {
+  padding: 36px 0;
+  border-bottom: 1px solid $color_link_water_approx;
+  &:first-child {
+    padding-top: 0;
+  }
+}
+.pace {
+  pointer-events: none;
+  //Instead of the line below you could use @includeuser-select($select)
+  user-select: none;
+  .pace-progress {
+    background: $color_jaffa_approx;
+    position: fixed;
+    z-index: 2000;
+    top: 0;
+    right: 100%;
+    width: 100%;
+    height: 2px;
+  }
+}
+.pace-inactive {
+  display: none;
+}
+.pace-running {
+  .demo-content {
+    opacity: 0.5;
+  }
+  figure {
+    pointer-events: none;
+  }
+}
+@media screen and(min-width: 630px) {
+  .demo-content {
+    padding: 10px;
+  }
+  .picture {
+    padding: 0;
+    border-bottom: 0;
+  }
+  .four figure {
+    float: left;
+    width: 25%;
+  }
+  .three figure {
+    float: left;
+    width: 33.33333333%;
+  }
+  .two figure {
+    float: left;
+    width: 50%;
+  }
+}

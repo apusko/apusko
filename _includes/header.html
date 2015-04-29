@@ -1,0 +1,24 @@
+<header class="site-header">
+
+  <div class="wrapper">
+
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+
+
+    <nav class="site-nav">
+
+      <a  href="https://instagram.com/apusko/"><img class="nav_icons" src="{{ site.baseurl }}/assets/img/inst_icon.png"></a>
+      <a  href="https://vk.com/apusko"><img class="nav_icons" src="{{ site.baseurl }}/assets/img/vk_icon.png"></a>
+      <a  href="#"><img class="nav_icons" src="{{ site.baseurl }}/assets/img/youtube_icon.png"></a>
+        {% for page in site.pages %}
+          {% if page.title %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+
+
+    </nav>
+
+  </div>
+
+</header>
