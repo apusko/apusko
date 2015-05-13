@@ -4,14 +4,13 @@ title:  "Перелет"
 date:   2015-04-08 19:24:09
 categories: travel usa
 
-desc: В предыдущей записи я уже немного рассказал вам о маршруте перелёта, однако в момент пересечения Атлантического океана нахлынуло желание описать весь этот небольшой кусочек жизни. Не сказать, что меня переполняют впечатления, но сказать есть что. Взять к примеру неописуемые боли в области пятой точки, которые сложились после 15 часового сидения в одном положении, полёт на Гренландией и знакомство со студентами из Украины.
+desc: обратный отсчёт, минуты ожидания...
 ---
 
-В предыдущей записи я уже немного рассказал вам о маршруте перелёта, однако в момент пересечения Атлантического океана нахлынуло желание описать весь этот небольшой кусочек жизни. Не сказать, что меня переполняют впечатления, но сказать есть что. Взять к примеру неописуемые боли в области пятой точки, которые сложились после 15 часового сидения в одном положении, полёт на Гренландией и знакомство со студентами из Украины.
-Весь маршрут на самом деле очень простой с одной пересадкой и то в одном и том же аэропорту. В конечном итоге маршрут выглядел следующим образом Калининград – Москва (Шереметьево) – Вашингтон ДС.
+обратный отсчёт, минуты ожидания...
 
 <div class="videoWrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9CSMWs4QAno" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kjoVbpzSCD4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Находясь дома я, почему-то, был на сто процентов уверен, что я посплю в московском аэропорту во время 10 часовой пересадки, однако неудобные сиденья не позволили не это сделать=(. Нужно выразить огромную благодарность ноутбуку, интернету и розеткам, которые помогли скоротать это время.
@@ -40,13 +39,13 @@ desc: В предыдущей записи я уже немного расска
 						</li>
 						<li>
 							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
-								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="1300"></div>
-								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="1000"></div>
-								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="700"></div>
-								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="300"></div>
-								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="200"></div>
-								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="140"></div>
-								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg"></div>
+								<div data-src="https://pp.vk.me/c408525/v408525002/9a85/QraWh3ayjbk.jpg" data-min-width="1300"></div>
+								<div data-src="https://pp.vk.me/c408525/v408525002/9a85/QraWh3ayjbk.jpg" data-min-width="1000"></div>
+								<div data-src="https://pp.vk.me/c408525/v408525002/9a85/QraWh3ayjbk.jpg" data-min-width="700"></div>
+								<div data-src="https://pp.vk.me/c408525/v408525002/9a85/QraWh3ayjbk.jpg" data-min-width="300"></div>
+								<div data-src="https://pp.vk.me/c408525/v408525002/9a85/QraWh3ayjbk.jpg" data-min-width="200"></div>
+								<div data-src="https://pp.vk.me/c408525/v408525002/9a85/QraWh3ayjbk.jpg" data-min-width="140"></div>
+								<div data-src="https://pp.vk.me/c408525/v408525002/9a85/QraWh3ayjbk.jpg"></div>
 								<noscript>
 									<img src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" alt="img03"/>
 								</noscript>
