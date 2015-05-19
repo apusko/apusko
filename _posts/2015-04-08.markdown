@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "Прощание"
+published: false
+date:   2015-05-19 05:24:09
+categories: travel usa
+
+desc: Шел первый час. Темнота, поглотившая всё пространство властвовала в это время, лишь свет фонарей и рёв моторов, изредка проносившихся по дороге, нарушали эту, как казалось, нерушимую гармонию. Сон по-тихоньку одолевал меня, однако всё-таки некоторое напряжение не давало мне уйти ...
+---
+<div class="videoWrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kjoVbpzSCD4" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Шел первый час. Темнота, поглотившая всё пространство властвовала в это время, лишь свет фонарей и рёв моторов, изредка проносившихся по дороге, нарушали эту, как казалось, нерушимую гармонию. Сон по-тихоньку одолевал меня, однако всё-таки некоторое напряжение не давало мне уйти из состояния тревоги, которое случается при расставании с родными местами. Денек выдался не из легких, да и тень грядущего предвосхищала немалые затраты энергии, которые надо было откуда-нибудь черпать. Однако организм напрочь отказ
+
+<div class="gamma-container gamma-loading" id="gamma-container">
+
+					<ul class="gamma-gallery">
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="1300"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="1000"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="700"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="300"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="200"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="140"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg"></div>
+								<noscript>
+									<img src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="https://pp.vk.me/c408525/v408525002/9a85/QraWh3ayjbk.jpg" data-min-width="1300"></div>
+								<div data-src="https://pp.vk.me/c408525/v408525002/9a85/QraWh3ayjbk.jpg" data-min-width="1000"></div>
+								<div data-src="https://pp.vk.me/c408525/v408525002/9a85/QraWh3ayjbk.jpg" data-min-width="700"></div>
+								<div data-src="https://pp.vk.me/c408525/v408525002/9a85/QraWh3ayjbk.jpg" data-min-width="300"></div>
+								<div data-src="https://pp.vk.me/c408525/v408525002/9a85/QraWh3ayjbk.jpg" data-min-width="200"></div>
+								<div data-src="https://pp.vk.me/c408525/v408525002/9a85/QraWh3ayjbk.jpg" data-min-width="140"></div>
+								<div data-src="https://pp.vk.me/c408525/v408525002/9a85/QraWh3ayjbk.jpg"></div>
+								<noscript>
+									<img src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="http://cs311622.vk.me/v311622002/84ac/JfDh2yEL3MM.jpg" data-min-width="1300"></div>
+								<div data-src="http://cs311622.vk.me/v311622002/84ac/JfDh2yEL3MM.jpg" data-min-width="1000"></div>
+								<div data-src="http://cs311622.vk.me/v311622002/84ac/JfDh2yEL3MM.jpg" data-min-width="700"></div>
+								<div data-src="http://cs311622.vk.me/v311622002/84ac/JfDh2yEL3MM.jpg" data-min-width="300"></div>
+								<div data-src="http://cs311622.vk.me/v311622002/84ac/JfDh2yEL3MM.jpg" data-min-width="200"></div>
+								<div data-src="http://cs311622.vk.me/v311622002/84ac/JfDh2yEL3MM.jpg" data-min-width="140"></div>
+								<div data-src="http://cs311622.vk.me/v311622002/84ac/JfDh2yEL3MM.jpg"></div>
+								<noscript>
+									<img src="http://cs311622.vk.me/v311622002/84ac/JfDh2yEL3MM.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+						<li>
+							<div data-alt="img03" data-description="<h3>Sky high</h3>" data-max-width="1800" data-max-height="1350">
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="1300"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="1000"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="700"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="300"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="200"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" data-min-width="140"></div>
+								<div data-src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg"></div>
+								<noscript>
+									<img src="http://cs408525.vk.me/v408525002/9cb1/RbewOV4nRIY.jpg" alt="img03"/>
+								</noscript>
+							</div>
+						</li>
+
+					
+
+					</ul>
+
+					<div class="gamma-overlay"></div>
+
+
+				</div>
